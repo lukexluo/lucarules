@@ -1,0 +1,16 @@
+ # Add Bard Google AI
+ host-suffix,bard.google.com,AI-US&SG
+ host-suffix,labs.google.com,AI-US&SG
+ # Add OpenAI
+ host-suffix,pay.openai.com,AI-US&SG
+ host-suffix,chat.openai.com,AI-US&SG
+ host-suffix,challenges.cloudflare.com,AI-US&SG
+ host-suffix,auth0.openai.com,AI-US&SG
+ host-suffix,platform.openai.com,AI-US&SG
+ # Add ai.com
+ host-suffix,ai.com,AI-US&SG
+ # Add stripe.com
+ host-suffix,invoice.stripe.com,AI-US&SG
+ host-suffix,stripe.com,AI-US&SG
+ #add poe.com
+ host-suffix,poe.com,AI-US&SG
