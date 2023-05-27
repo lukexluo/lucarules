@@ -1,3 +1,5 @@
+- # Add sentry.io chatGPT security check
+- DOMAIN-SUFFIX,sentry.io,AI-US&SG
 - # Add Google AI-Powered SGE
 - DOMAIN-SUFFIX,google.com,AI-US&SG
 - # Add Bard Google AI
