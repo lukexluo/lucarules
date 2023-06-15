@@ -1,3 +1,5 @@
+ # JD
+ host-suffix,jd.com,DIRECT
  # Add sentry.io chatGPT security check
  host-suffix,sentry.io,AI-US&SG
  # Add Google AI-Powered SGE
