@@ -1,3 +1,5 @@
+ # Claude AI
+ host-suffix,claude.ai,DIRECT
  # JD
  host-suffix,jd.com,DIRECT
  # Add sentry.io chatGPT security check
