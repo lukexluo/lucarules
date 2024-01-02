@@ -15,7 +15,7 @@
 # Claude AI
 DOMAIN-SUFFIX,claude.ai
 # JD
-DOMAIN-SUFFIX,jd.com,DIRECT
+# DOMAIN-SUFFIX,jd.com,DIRECT
 # Add sentry.io chatGPT security check
 DOMAIN-SUFFIX,sentry.io
 # Add Google AI-Powered SGE
