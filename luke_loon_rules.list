@@ -1,0 +1,49 @@
+# NAME: AI
+# AUTHOR: Luke
+# REPO: https://github.com/lukexluo/lucarules
+# UPDATED: 2024-01-02 16:27:00
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 27
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# USER-AGENT: 0
+# TOTAL: 28
+
+
+# Claude AI
+DOMAIN-SUFFIX,claude.ai
+# JD
+DOMAIN-SUFFIX,jd.com,DIRECT
+# Add sentry.io chatGPT security check
+DOMAIN-SUFFIX,sentry.io
+# Add Google AI-Powered SGE
+DOMAIN-SUFFIX,google.com
+# Add Bard Google AI
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,labs.google.com
+# Add OpenAI
+DOMAIN-SUFFIX,pay.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+# Add ai.com
+DOMAIN-SUFFIX,ai.com
+# Add stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+#Add poe.com
+DOMAIN-SUFFIX,poe.com
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
